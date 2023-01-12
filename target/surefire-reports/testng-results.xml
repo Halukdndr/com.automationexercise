@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegistrationTests" duration-ms="17741" started-at="2023-01-12T02:07:56 EET" finished-at="2023-01-12T02:08:14 EET">
+    <groups>
+    </groups>
+    <test name="C:/Users/oguzz/workspace/automationexercise.new" duration-ms="17741" started-at="2023-01-12T02:07:56 EET" finished-at="2023-01-12T02:08:14 EET">
+      <class name="org.inaracademy.automationexercise.RegistirationTests">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:org.inaracademy.automationexercise.RegistirationTests@40bffbca]" name="setUpSuite" is-config="true" duration-ms="4036" started-at="2023-01-12T02:07:52 EET" finished-at="2023-01-12T02:07:56 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="testCase_1_Register_User()[pri:0, instance:org.inaracademy.automationexercise.RegistirationTests@40bffbca]" name="testCase_1_Register_User" duration-ms="16398" started-at="2023-01-12T02:07:56 EET" finished-at="2023-01-12T02:08:13 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_1_Register_User -->
+        <test-method status="PASS" signature="testCase_5_RegisterUserWithExistingEmail()[pri:0, instance:org.inaracademy.automationexercise.RegistirationTests@40bffbca]" name="testCase_5_RegisterUserWithExistingEmail" duration-ms="1325" started-at="2023-01-12T02:08:13 EET" finished-at="2023-01-12T02:08:14 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_5_RegisterUserWithExistingEmail -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.inaracademy.automationexercise.RegistirationTests@40bffbca]" name="afterTest" is-config="true" duration-ms="625" started-at="2023-01-12T02:08:14 EET" finished-at="2023-01-12T02:08:15 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.inaracademy.automationexercise.RegistirationTests -->
+    </test> <!-- C:/Users/oguzz/workspace/automationexercise.new -->
+  </suite> <!-- RegistrationTests -->
+</testng-results>

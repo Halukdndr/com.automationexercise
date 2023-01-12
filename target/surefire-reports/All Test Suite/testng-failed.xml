@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]">
+  <test thread-count="5" verbose="0" name="C:/Users/oguzz/workspace/automationexercise.new(failed)">
+    <classes>
+      <class name="org.inaracademy.automationexercise.LoginTests">
+        <methods>
+          <include name="afterTest"/>
+          <include name="testCase_2_LoginUserWithCorrectEmailAndPassword"/>
+          <include name="setUpSuite"/>
+        </methods>
+      </class> <!-- org.inaracademy.automationexercise.LoginTests -->
+      <class name="org.inaracademy.automationexercise.RegistirationTests">
+        <methods>
+          <include name="testCase_5_RegisterUserWithExistingEmail"/>
+          <include name="afterTest"/>
+          <include name="testCase_1_Register_User"/>
+          <include name="setUpSuite"/>
+        </methods>
+      </class> <!-- org.inaracademy.automationexercise.RegistirationTests -->
+    </classes>
+  </test> <!-- C:/Users/oguzz/workspace/automationexercise.new(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
